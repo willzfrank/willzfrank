@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godswill Francis☘️</h1>
-<h3 align="center">I am presently undergoing a software engineering diploma course🎓 currently at National Institute of Information Technology. Looking for opportunities and collabaration in projects related to reactjs. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my PHP and Nodejs 🤓. Looking forward to Share and Gain knowledgeable stuff.</h3>
+<h3 align="center">I am presently undergoing a software engineering diploma course🎓 currently at National Institute of Information Technology. Looking for opportunities and collabaration in projects related to reactjs. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my PHP and Nodejs 🤓. Looking forward to share and gain knowledgeable stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willzfrank&label=Profile%20views&color=0e75b6&style=flat" alt="willzfrank" /> </p>
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/godswill francis udoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="godswill francis udoh" height="30" width="40" /></a>
 <a href="https://twitter.com/willsfranktweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willsfranktweet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/godswill-udoh-653669b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godswill-udoh-653669b7" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/wills.udoh.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wills.udoh.5" height="30" width="40" /></a>
