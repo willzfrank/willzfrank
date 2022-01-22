@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **willzudoh4@gmail.com**
 
-- 📄 Know about my experiences [willzfrank.com](willzfrank.com)
+- ⚡ Fun fact **Undefined can be defined in JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
