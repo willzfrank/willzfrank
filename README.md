@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **YETTI**
 
-- 👨‍💻 All of my projects are available at [willzfrank.com](willzfrank.com)
+- 👨‍💻 All of my projects are available at [willzfrank.netlify.app](willzfrank.netlify.app)
 
 - 📫 How to reach me **willzudoh4@gmail.com**
 
