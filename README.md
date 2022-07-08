@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/willsfranktweet" target="blank"><img src="https://img.shields.io/twitter/follow/willsfranktweet?logo=twitter&style=for-the-badge" alt="willsfranktweet" /></a> </p>
 
-- 🔭 I’m currently working on **YETTI**
+- 🔭 I’m currently working on **CLEAN GIST**
 
 - 👨‍💻 All of my projects are available at [willzfrank.netlify.app](willzfrank.netlify.app)
 
