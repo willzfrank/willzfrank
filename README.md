@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godswill Francis☘️</h1>
 <h3 align="center">I am presently undergoing a software engineering diploma course🎓 currently at National Institute of Information Technology. Looking for opportunities and collabaration in projects related to reactjs and nodejs. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my PHP and Nodejs 🤓. Looking forward to share and gain knowledgeable stuff.</h3>
 
-## **Socials :**
+## **Connect with me: :**
 <p align="left">
  <a href="https://www.linkedin.com/in/godswill-udoh-653669b7/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
  <a href="https://twitter.com/willsfranktweet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
@@ -32,14 +32,6 @@
 
 <p align="centre">
 <a href="https://github.com/Willzfrank"><img src="https://github-profile-trophy.vercel.app/?username=Willzfrank&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Willzfrank"/></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/willsfranktweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willsfranktweet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/godswill-udoh-653669b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godswill-udoh-653669b7" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/wills.udoh.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wills.udoh.5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/puresteelz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/puresteelz/" height="30" width="40" /></a>
 </p>
 
 ## **My Github Stats :**
