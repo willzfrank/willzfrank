@@ -13,6 +13,12 @@
 
 - ⚡ Fun fact **Undefined can be defined in JS**
 
+## **GitHub Trophies :**
+
+<p align="centre">
+<a href="https://github.com/Qreamville"><img src="https://github-profile-trophy.vercel.app/?username=Qreamville&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Qreamville"/></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/willsfranktweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willsfranktweet" height="30" width="40" /></a>
