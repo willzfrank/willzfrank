@@ -37,11 +37,13 @@
 ## **My Github Stats :**
 
 <p align="left">
-<a href="https://github.com/willzfrank" title="Redirect's to willzfrank's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=willzfrank&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+ 
+<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willzfrank&layout=compact&langs_count=8&theme=dark"/>
+
   
 <a href="https://github.com/willzfrank">
 <img width="49%" title="Redirect's to willzfrank Github" src="https://github-readme-streak-stats.herokuapp.com/?user=willzfrank&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willzfrank&layout=compact&langs_count=8&theme=dark"/>
+ <a href="https://github.com/willzfrank" title="Redirect's to willzfrank's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=willzfrank&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 </p>
