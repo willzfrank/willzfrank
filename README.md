@@ -42,7 +42,7 @@
 
   
 <a href="https://github.com/willzfrank">
-<img width="49%" title="Redirect's to willzfrank Github" src="https://github-readme-streak-stats.herokuapp.com/?user=willzfrank&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="49%" title="Redirect's to willzfrank Github" src="https://github-readme-streak-stats.herokuapp.com/?user=willzfrank&theme=light&theme=light-ice&stroke=0000" /></a>
                                                               
 
  <a href="https://github.com/willzfrank" title="Redirect's to willzfrank's Github">
