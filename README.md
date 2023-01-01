@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Godswill Francis☘️</h1>
-<h3 align="center">I am presently undergoing a software engineering diploma course🎓 currently at National Institute of Information Technology. Looking for opportunities and collabaration in projects related to reactjs and nodejs. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my PHP and Nodejs 🤓. Looking forward to share and gain knowledgeable stuff.</h3>
+
+- 🌍  I'm based in Lagos, Nigeria
+
+- 🔭 I’m currently working on **SANMTOS APP**
+
+- 👨‍💻 All of my projects are available at [willzfrank.netlify.app](willzfrank.netlify.app)
+
+- 📫 How to reach me **willzudoh4@gmail.com**
+
+- ⚡ Fun fact **Undefined can be defined in JS**
 
 ## **Connect with me: :**
 <p align="left">
@@ -17,15 +26,6 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
 </p>
-
-- 🔭 I’m currently working on **SANMTOS APP**
-
-- 👨‍💻 All of my projects are available at [willzfrank.netlify.app](willzfrank.netlify.app)
-
-- 📫 How to reach me **willzudoh4@gmail.com**
-
-- ⚡ Fun fact **Undefined can be defined in JS**
-
 
 
 ## **GitHub Trophies :**
