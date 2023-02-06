@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **willzudoh4@gmail.com**
 
-- ⚡ Cheers to Making the web a prettier place, one pixel at a time.
+- ⚡ Cheers to **making the web a prettier place, one pixel at a time**.
 
 ## **Connect with me: :**
 <p align="left">
