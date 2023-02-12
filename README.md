@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SANMTOS APP**
 
-- 👨‍💻 All of my projects are available at [https://godswillfrancis.vercel.app/]((https://godswillfrancis.vercel.app/))
+- 👨‍💻 All of my projects are available at <a href="https://godswillfrancis.vercel.app/">My Portfolio</a>
 
 - 📫 How to reach me **willzudoh4@gmail.com**
 
