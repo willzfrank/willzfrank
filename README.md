@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SANMTOS APP**
 
-- 👨‍💻 All of my projects are available at [willzfrank.netlify.app](willzfrank.netlify.app)
+- 👨‍💻 All of my projects are available at [https://godswillfrancis.vercel.app/]((https://godswillfrancis.vercel.app/))
 
 - 📫 How to reach me **willzudoh4@gmail.com**
 
