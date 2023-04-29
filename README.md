@@ -13,7 +13,7 @@
 ## **Connect with me: :**
 <p align="left">
  <a href="https://www.linkedin.com/in/godswill-udoh/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
- <a href="https://twitter.com/willsfranktweet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+ <a href="https://twitter.com/willzfrank001" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ## **Skills :**
