@@ -2,8 +2,6 @@
 
 - 🌍  I'm based in Lagos, Nigeria
 
-- 🔭 I’m currently working on **POLAR-FREQUENCY**
-
 - 👨‍💻 All of my projects are available at <a href="https://godswillfrancis.vercel.app/">My Portfolio</a>
 
 - 📫 How to reach me **willzudoh4@gmail.com**
